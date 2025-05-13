@@ -1,2 +1,1 @@
-# fortune-resume
-resume
+https://github.com/4tunemakgale/fortune-resume
